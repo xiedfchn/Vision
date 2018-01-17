@@ -1,5 +1,5 @@
 # Vision
-A good-looking websites built with friends.
+A good-looking website built with friends.
 
 
 
